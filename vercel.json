@@ -1,6 +1,1 @@
-{
-  "rewrites": [
-    { "source": "/missting/:path*", "destination": "https://missting.vercel.app/:path*" },
-    { "source": "/missting", "destination": "https://missting.vercel.app" }
-  ]
-}
+{}
